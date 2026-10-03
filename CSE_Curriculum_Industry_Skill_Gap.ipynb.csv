@@ -1,0 +1,21 @@
+Skill,Curriculum_Level,Industry_Required_Level,Alignment_Score,Industry_Priority,Skill_Category
+Python,4,5,0.9,High,Programming
+Java,4,4,0.75,Medium,Programming
+C/C++,5,3,0.55,Medium,Programming
+SQL,4,5,0.9,High,Database
+Data Structures,5,5,0.95,High,Core CS
+Algorithms,5,5,0.9,High,Core CS
+DBMS,4,5,0.85,High,Database
+Operating Systems,4,4,0.75,Medium,Core CS
+Computer Networks,4,4,0.7,Medium,Core CS
+Software Engineering,4,4,0.75,Medium,Software Development
+Git/GitHub,2,5,0.45,High,Tools
+Web Development,3,5,0.6,High,Development
+Cloud Computing,2,4,0.4,High,Cloud
+AWS,2,4,0.35,High,Cloud
+Machine Learning,3,4,0.55,Medium,AI/Data
+Data Analysis,2,4,0.45,High,AI/Data
+Communication Skills,3,5,0.6,High,Soft Skills
+Problem Solving,4,5,0.75,High,Soft Skills
+Teamwork,3,5,0.65,High,Soft Skills
+Interview Skills,2,5,0.4,High,Employability
